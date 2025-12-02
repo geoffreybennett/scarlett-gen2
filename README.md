@@ -69,8 +69,7 @@ supporting these models:
 - Clarett USB and Clarett+ (2Pre/4Pre/8Pre): Since Linux 6.7
 - Vocaster: Since Linux 6.10
 
-The `fcp` driver is currently only available in this repository and in
-the ALSA `for-next` branch.
+The `fcp` driver is included in Linux 6.14 and later.
 
 ## Repository Purpose
 
@@ -109,9 +108,6 @@ This repository is a fork of the Linux kernel, used for:
 
 ### FCP Driver
 
-- Contact the author by email for assistance while this is under
-  development.
-
 - Install the
   [firmware](https://github.com/geoffreybennett/scarlett4-firmware).
 
@@ -123,7 +119,7 @@ This repository is a fork of the Linux kernel, used for:
 
 - Install and run [ALSA Scarlett
   GUI](https://github.com/geoffreybennett/alsa-scarlett-gui) to
-  configure your device (use the g4-big branch for now).
+  configure your device.
 
 ## Support
 
