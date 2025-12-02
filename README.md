@@ -83,6 +83,12 @@ This repository is a fork of the Linux kernel, used for:
 
 ## Installation Options
 
+If your kernel already meets the minimum version requirements listed
+above, you don't need to install anything; jump ahead to the [Setup
+Instructions](#setup-instructions).
+
+Otherwise, you can either:
+
 1. Module Installation (recommended):
 
     - Download from
